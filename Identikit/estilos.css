@@ -136,16 +136,21 @@
         padding: 20px;
     }
 
-    .textosSueltos {
+    .textosSueltosConHover {
         color: #093614;
        
     }
 
-    .textosSueltos:hover {
+    .textosSueltosConHover:hover {
         color: #093614;
         font-size: 30px; 
         text-decoration:underline;
     }
+
+    .textosSueltos {
+        color: #093614;
+    }
+
     .gif {
         margin: auto;
         display: block;
