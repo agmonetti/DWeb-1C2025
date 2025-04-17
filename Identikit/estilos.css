@@ -1,0 +1,196 @@
+    nav {
+        text-align: right;
+        font-size: 25px;
+        
+        }
+
+
+    body {
+        text-align: center;
+        background-color: #C9FFEB;
+        margin: 0;
+        padding: 0;
+     }
+     
+
+    
+    h1 {
+        font-family: "Amatic SC", sans-serif; 
+        font-size: 50px;
+        color: #093614;
+    }
+    h2 {
+        font-family: "Amatic SC", sans-serif; 
+        font-size: 30px;
+        font-weight: 600;
+        color: #093614;
+    }
+    
+    td , a{
+        font-family: "Lato", sans-serif; 
+        font-size: 25px;
+        font-weight: 300;
+    }
+    
+    
+    a {
+        text-decoration:none;
+    
+    }
+    aside {
+        vertical-align: top;
+        width: 22%;
+        height: 700px;
+        display: inline-block;
+        padding-top: 10px;
+     }
+
+
+
+    section{
+        padding-top: 10px;
+        width: 78%;
+        display: inline-block;
+        height: 700px;
+     }
+
+     footer {
+        height: 100px;
+        margin-top: -21px;
+     }
+
+
+    #id-tierlist_palabras , #id-tierlist_sinPalabras{
+        margin: 20px auto;
+        font-size: 30px;
+        text-align: center;
+        border: 1px solid black;
+        font-family: "Lato", sans-serif;
+        font-weight: 300;
+    }
+
+    #id-tierlist_palabras th, #id-tierlist_palabras td {
+        border: 1px solid black;
+        padding: 8px;
+    }
+
+    #id-tierlist_sinPalabras th, #id-tierlist_sinPalabras td {
+        border: 1px solid black;
+        padding: 8px;
+    }
+
+    #id-tierlist_sinPalabras img {
+        width: 150px;
+    }
+
+    #id-intereses {
+        margin: 20px auto; 
+        font-size: 20px; 
+        text-align: center; 
+        margin-bottom: 7%; 
+        border: 1px solid black;
+    }
+
+    #id-intereses th, #id-intereses td {
+        border: 1px solid black;
+        padding: 8px;
+    }
+
+    #id-futbol  {
+        margin: 20px auto;
+        border: 1px solid black;
+
+    }
+
+    #id-futbol th, #id-futbol td{
+        margin: 20px;
+        border: 1px solid black;
+    }
+    #id-futbol a {
+        color: black;
+    }
+    #id-futbol img ,  #id-intereses img {
+        width: 100px;
+        height: auto;
+        display: block;
+        margin: auto;
+    } 
+
+    #id-sobreMi , #id-futbol , #id-intereses, #id-tierlist_palabras{
+        font-family: "Lato", sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        color: #093614;
+    
+    }
+
+    .futbolJuego {
+        margin: 20px auto;
+
+    }
+    .futbolJuego img {
+        width: 250px;
+        height: auto;
+        display: block;
+        margin: auto;
+        padding: 20px;
+    }
+
+    .textosSueltosConHover {
+        color: #093614;
+       
+    }
+
+    .textosSueltosConHover:hover {
+        color: #093614;
+        font-size: 30px; 
+        text-decoration:underline;
+    }
+
+    .textosSueltos {
+        color: #093614;
+    }
+
+    .gif {
+        margin: auto;
+        display: block;
+        width: 650px;
+    }
+
+    .volverInicio {
+        text-decoration: none;
+        color: #093614;
+        font-family: "Lato", sans-serif; 
+        font-size: 25px;
+        font-weight: 300;
+    }
+
+    
+    .titulos {
+        text-align: center;
+        line-height: 50%;
+    }
+
+
+    .nav {
+        color: #093614;
+    
+    }
+
+    .nav:visited {
+        color: #093614;
+    }
+    .listaNAV {
+        display: inline;
+        padding: 10px;
+    }
+
+    .listaVideos {
+        color: #093614;
+        
+    }
+
+    .listaVideos:hover {
+        color:#2079D5;
+        text-decoration: underline;
+    }
